@@ -8,9 +8,9 @@ Yo soy Juan .
 Cómo se llama usted ?
 Yo me llamo Juan .
 Ah !
-Yo me llamo como usted se llama .
+Yo me llamo como tú te llamas .
 Nosotros somos tocayos .
-Cómo se apellida usted ?
+Cómo apellida usted ?
 Mi apellido es López .
 Quiénes son ellos ?
 Ellos son mi familia Carlos y Maria .
@@ -51,7 +51,7 @@ Se juega bien con esta bola .
 Yo puedo jugar con esta bola .
 Debo ayudar a mi madre .
 Eso debe beberse hoy .
-Cómo está usted ?
+Cómo estás tú ?
 Yo estoy bien .
 Y cómo está usted ?
 Yo no estoy bien .
@@ -59,9 +59,9 @@ Yo estoy enfermo .
 Qué te pasó ?
 Tengo mucha gripe .
 Anteayer en la noche aquel zorro se metió en la casa de los pollos .
-Qué hizo usted ?
+Qué hiciste tú ?
 Yo me levanté a matarlo en la lluvia .
-Usted mató al zorro ?
+Tú mataste al zorro ?
 No .
 El maldito se me escapó .
 Qué mal !
@@ -194,7 +194,7 @@ Yo maté ratones .
 Ellos se sentaron .
 Yo me lo comí .
 Yo me los comí .
-Usted me vio .
+Tú me viste .
 Yo me vi .
 Ustedes me vieron .
 Nosotros nos vimos .
@@ -225,14 +225,14 @@ Yo fui a cocinarlo .
 Yo fui a cocinarlo de nuevo .
 A qué fue él ? A cocinarlo .
 Entonces yo estaba corriendo .
-Ahora usted está comiendo .
-Ahora usted no está comiendo .
-Ahora usted no está comiendo .
+Ahora tú estás comiendo .
+Ahora tú no estás comiendo .
+Ahora tú no estás comiendo .
 Él estuvo comiendo arroz .
 Nosotros no estuvimos caminando .
 Yo estoy jugando .
 Yo estoy viendo una casa .
-Que está haciendo usted ?
+Que estás haciendo tú ?
 Yo no estoy jugando .
 Usted no está viendo una casa ?
 Yo estoy haciendo una camisa con esta tela .
@@ -652,8 +652,8 @@ Yo también vivo en Cartago .
 Su familia vive en Cartago también ?
 No , mi familia no vive en Cartago , mi familia vive en Talamanca .
 Lea !
-Mi madre es siotami .
-Hola ! Yo soy Trini . Esta es mi madre . Ella se llama Anastasia . Ella es siotami . Y tu madre , cómo se llama ?
+Mi mamá es siotami .
+Hola ! Yo soy Trini . Esta es mi mamá . Ella se llama Anastasia . Ella es siotami . Y tu mamá , cómo se llama ?
 Quién es usted ?
 Es usted Bachi ?
 Quiénes son ustedes ?
@@ -718,7 +718,7 @@ pata de la mesa
 pedazo de madera
 mata de banano
 mi padre
-la madre de él
+la mamá de él
 los parientes de él
 Oh , padre !
 en la casa
@@ -752,10 +752,10 @@ aquel pájaro arriba cerca
 aquel río abajo lejos
 las mujeres de este lugar
 mi papá
-mi madre
+mi mamá
 mi papá
-mi madre
-tu madre
+mi mamá
+tu mamá
 tu madre
 tu lugar
 tu lugar
@@ -774,20 +774,20 @@ su pierna
 Cómo se dice en bribri ?
 en la casa de mi familia
 con la chácara del papá de ellos
-sobre la olla de la madre de Trini
+sobre la olla de la mamá de Trini
 a la par del guacal de esa muchacha
 en la canasta de aquella viejita
 sobre la piel de esta danta
 con la gallina del médico
 para el hijo de ustedes
 Cómo se dice en bribri ?
-Esta es mi madre .
+Esta es mi mamá .
 Este es mi papá .
 Ustedes son los hijos de Hernán ?
 Ellos son médicos .
 Aquella viejita vive en Coroma .
 Esta cerbatana es de mi hijo .
-Esa es la casa de mi madre .
+Esa es la casa de mi mamá .
 Ellas son las hijas de Alí .
 Silverio es el marido de Anastasia .
 Esa carne de cerdo es de mi familia .
@@ -798,7 +798,7 @@ El perro está echado a la par del árbol .
 Hay pájaros en la rama .
 Este guacal es para el médico .
 Hay gente en la casa .
-Esas gallinas son de mi madre .
+Esas gallinas son de mi mamá .
 Las muchachas están con los muchachos .
 El muchacho juega con la cerbatana .
 La rama está sobre la casa .
@@ -833,10 +833,10 @@ Yo lo cocino
 Yo lo cocino
 Yo suelo buscar lagartos en el monte
 yo lo estoy cocinando
-Usted lo va a ver
+Tú lo vas a ver
 Yo lo compré
-Usted lo vio
-Usted lo ha visto
+Tú lo viste
+Tú lo has visto
 Yo no lo vi
 Ustedes no lo pedirían
 Yo quiero café
@@ -861,7 +861,7 @@ Yo iré a verlo .
 El no va a ir a vivir a tu casa
 El no va a ir a vivir a tu casa
 Yo debo verte en tu casa
-Usted no debe correr
+Tú no debes correr
 Yo quiero verlo
 El no quiere jugar
 Yo deseo verlo
@@ -1231,8 +1231,8 @@ entonces así ellos matan al águila
 así los mayores nos cuentan a nosotros esta historia
 oh ! señor hoy nosotros vamos a decirte muchas gracias
 hay mucho que hablar , se ha dicho mucho , nosotros fuimos abandonados tristemente , nuestra familia nos abandonó
-por eso usted nos tiene bien , usted nos ayuda
-por eso queremos decirle gracias
+por eso tú nos tienes bien , tú nos ayudas
+por eso queremos decirte gracias
 tú te llamas , en nombre de tu hijo llamado Jesus Amén
 algunas pocas solamente son diferentes
 no son diferentes todas
@@ -1286,7 +1286,7 @@ por eso si no trabajamos qué comemos ujú !
 todos nosotros trabajamos con nuestro papá nuestra mamá ajá !
 Juanita En qué trabaja usted ?
 ah ! cuando yo era pequeña
-yo , yo ayudaba a mi madre a alimentar a los pollitos , a buscar agua , a botar la basura
+yo , yo ayudaba a mi mamá a alimentar a los pollitos , a buscar agua , a botar la basura
 después cuando me hice muchacha
 entoces fui a trabajar al cacaotal , a cortar cacao , a quebrar cacao
 cuándo el cacao se murió
@@ -1331,7 +1331,7 @@ yo , yo limpio el terreno , yo siembro maíz
 yo siembro frijol , siembro banano ,
 siembro yuca
 siembro ayote , siembro chayote
-yo hago el trabajo , mi papá , mi madre , mi trabajo me enseñaron
+yo hago el trabajo , mi papá , mi mamá , mi trabajo me enseñaron
 por eso yo trabajo
 con eso yo vivo , con eso mis hijitos comerán , con eso mis hijitos viven
 solo con eso yo amanezco , anochezco
@@ -1674,6 +1674,7 @@ usted aprendió a cantar
 yo no aprendí
 cuente eso usted después yo le contesto
 tal vez yo puedo mentir
+risas
 pues al principio el trillo era muy feo , el trillo no era así como hoy
 el trillo estaba muy tupido de matas de cacao , el trillo tenía alguna burra muy sucia
 en ese nosotras pasabamos hacia abajo a la escuela cuando éramos muchachas
@@ -1792,7 +1793,6 @@ ajá , hoy la mayoría de nosotros solo los imitamos
 usted toma todavía lo de nosotros
 ajá , yo tomo todavía lo de nosotros
 ya la mayoría de ellos , ya no lo toma
-Ah
 algunos , algunos
 algunos , algunos lo raspan
 si ellos todavía escuchan , siguen , siguen
@@ -2064,7 +2064,6 @@ de vez en cuando
 hace mucho tiempo yo caminaba hasta lugares muy lejanos
 en la actualidad yo no voy lejos
 pero como usted dice el código de cacería es estricto
-ajá
 solamente cerca , cerca
 a poca distancia
 cuando usted anda lejos y
@@ -2422,6 +2421,7 @@ uju
 de ese entonces
 yo una vez
 un vecino andaba conmigo una vez
+y
 pues entonces usted es cazador usted ha
 usted sabe y dice que es mentira
 e
@@ -2437,6 +2437,7 @@ el lo tira , como que si hubiera levantado el hocico hacia arriba y de donde emi
 usted no
 usted no dice que es en ese momento ella nos jala ahi mismo
 como los demonios
+j
 para mi asi , asi es
 a ese hombre vivio dos años únicamente
 entonces ahí ella nos deja
@@ -2444,6 +2445,7 @@ a ese hombre le llego dos años nada mas
 él ya no esta
 y que le paso
 como el padecio la enfermedad
+i
 parece que lo mato , no me acuerdo que lo mato pero si dos años nada mas vivió
 asi dicen los mayores que en el estómago se siente intenso dolor y entonces
 ese es la enfermedad de ella
@@ -2794,7 +2796,7 @@ Vamos a tomar cacao .
 Esperame un momento .
 Vamos a tomar chicha .
 Yo te molesto .
-Yo tengo que ayudar a mi madre .
+Yo tengo que ayudar a mi mamá .
 Tengo hambre .
 Vamos a comer .
 Tengo sed .
@@ -2955,7 +2957,7 @@ Alí no va a ir a bañarse al río a mediodía .
 Yo creo que ellos deben trabajar en la tarde .
 Cómo se dice en español ?
 Vamos a cortar banano al mediodía .
-Voy a ir a donde mi madre a tomar chicha esta noche .
+Voy a ir a donde mi mamá a tomar chicha esta noche .
 Después las mujeres van a comer yuca .
 Hoy nosotros vamos a ir a jugar bola .
 Al mediodía voy a ir a donde mi abuela materna .
@@ -3566,8 +3568,8 @@ Yo corro .
 Yo suelo correr .
 Yo voy a correr .
 Tu corres .
-Usted suele correr .
-Usted va a correr .
+Tú sueles correr .
+Tú vas a correr .
 Él corre .
 Él suele correr .
 Él va a correr .
@@ -3821,7 +3823,7 @@ Yo no tengo tíos .
 Yo no tengo tías .
 Yo no tengo tías .
 Alí es el hijo de Anastasia y Silverio .
-Anastasia es la madre de Alí .
+Anastasia es la mamá de Alí .
 Silverio es papá de Alí .
 Alí es el hermano de Hernán .
 Alí es el hermano de Sebastiana .
@@ -4018,7 +4020,7 @@ Otros animales son de la clase redonda .
 Nombres de la clase redonda .
 Tengo doce compañeros en la clase .
 Cómo se dice en bribri ?
-Mi madre tiene dos ollas .
+Mi mamá tiene dos ollas .
 El tío materno de Alí tiene ocho cerdos .
 Las serpientes no tienen patas .
 El cazador tiene una cerbatana .
@@ -4032,7 +4034,7 @@ El papá de Hernán tiene seis perros .
 Trini tiene dos tortugas .
 La gente está cocinando tres recimos de banano .
 Mi familia tiene nueve venados .
-En la casa de mi madre hay dos quetzales .
+En la casa de mi mamá hay dos quetzales .
 El médico tiene una piedra curativa macho y una piedra curativa hembra .
 una iguana
 un quetzal
@@ -4606,7 +4608,7 @@ Mis padres me están manteniendo porque yo estoy enfermo.
 María está secando el arroz.
 El suquia está raspando su bastón con un cuchillo.
 Mi madre está lavando la batea.
-La mujer se está bañando por su impureza.
+La mujer se estú bañando por su impureza.
 La otra noche yo probé la chicha.
 Rosa tantea el paquete para saber lo que es.
 Yo le pagué trescientos por el trabajo que me hizo.
@@ -4667,7 +4669,7 @@ Casi todas las flores tienen un olor agradable .
 La madre es cariñosa con sus hijos .
 Mi hermano está junto a su esposa .
 En mi casa hay una foto muy bonita de nuestra tía materna .
-Todos nosotros tenemos madre .
+Todos nosotros tenemos mamá .
 Mi mamita ya está mayor .
 Él tiene un perico zapayol que imita muy bien lo que él habla .
 La coloradilla es muy pequeña y por eso cuesta verla .
@@ -4699,7 +4701,7 @@ Feliciano se rió con el chiste de Pedro .
 Yo odiaba a su hermano .
 Mi hermano mencionó su nombre .
 Yo voy a ir donde el suquia para que me cure .
-El pájaro sangre de toro no come arroz ,  sino guineos maduros .
+El pájaro sangre de toro no come arroz , sino guineos maduros .
 Nuestras mejillas son suaves .
 Él se quedó con su tía .
 La culebra zopilota está haciendo chillar al sapo .
@@ -4743,11 +4745,11 @@ Nosotros nos fuimos a vivir a otra parte .
 En otro tempo ella tenía esposo .
 En Talamanca las casas están esparcidas .
 En otros tiempos yo cantaba rancheras .
-Quién sabe ,  yo no lo creo !
+Quién sabe , yo no lo creo !
 El comenzó a trabajar sin orden .
 La camisa que me regalaste me queda holgada .
 Los antepasados usaron lanzas en la guerra contra los térrabas .
-Cuando al mediodía el sol calienta mucho ,  el agua se pone tibia .
+Cuando al mediodía el sol calienta mucho , el agua se pone tibia .
 El tigre está durmiendo en la punta de una roca .
 Ayer fue su trabajo final .
 Este es su último trabajo .
@@ -4881,7 +4883,7 @@ nuestra casa
 la casa de Silverio
 el vestido de la mujer
 un brazo de río
-Esta es la olla de la madre de Trini .
+Esta es la olla de la mamá de Trini .
 este lugar
 esos niños
 aquel cielo
@@ -5026,7 +5028,7 @@ Ellos estaban peleando con Sibö̀ .
 Aquella persona estuvo viviendo ahí .
 Yo estoy leyendo un libro .
 La gente está sentada conversando .
-Yo necesito ayudar a mi madre .
+Yo necesito ayudar a mi mamá .
 Los niños necesitan comer .
 Yo regresaré a verlo .
 Ellos llegaron a examinarlo .
@@ -5913,6 +5915,7 @@ Solo estaba el zorro seco colgado .
 El zorro seco , que era la comida de los Sòrbulu , estaba colgado .
 Él se vino y tocó por primera vez .
 Los Sòrbulu no entendían .
+Segunda vez , no entendían . Tercera vez .
 Entonces Sibö̀ pensó .
 Ojalá que esos Sòrbulu piensen eso .
 Seguro es Sibö̀cito el que está haciendo este mal agüero .
@@ -5920,7 +5923,7 @@ Nosotros somos bribris .
 Usted no es bribri .
 Los búhos viven en los árboles .
 Ese animal está enfermo .
-El colibrí chupa el jugo de las flores .
+El colibrí chupa eljugo de las flores .
 En Talamanca ya no hay iguanas .
 La casa de mi amigo que está en Katsi es bonita .
 El carro está arreglado .
@@ -5930,7 +5933,7 @@ Mi madre es muy buena .
 Hoy él amaneció bien .
 En su vida , mi abuelo sembró mucho tiquiste .
 La caña brava es larga y nos sirve para apear pejibayes .
-Las serpientes comen sapos .
+Los sapos son comidos por las culebras .
 Ustedes siempre tienen hipo .
 El perro está espantando a las gallinas .
 La picadura de cualquier avispa es dolorosa .
@@ -5940,16 +5943,16 @@ Allá está el panal !
 En Talamanca ya nadie baila el sorbón .
 Él salió de mañana a su trabajo .
 La miel de abejas se conserva por mucho tiempo .
-Yo me levanté muy temprano .
-En la mañana nosotros fuimos a ver a nuestro amigo que está enfermo .
-Muy temprano en la mañana yo oí disparo cerca de mi casa .
+Me levanté muy temprano .
+En la mañana fuimos a ver a nuestro amigo que está enfermo .
+Muy temprano en la mañana oí disparo cerca de mi casa .
 Yo estoy tocando el tambor .
 El viento hace sonar los árboles .
 Me gusta tocar la guitarra en las fiestas .
 Los cazadores se van mañana .
 Muchas mujeres tienen menstruaciones dolorosas .
 Las olominas no crecen mucho .
-Los indígenas de Talamanca ya no hacen collares .
+Los indígenas ya no hacen collares .
 Juan y María fueron a bailar sorbón con ellos .
 En los árboles se halla la cera .
 Los borucas no hablan bribri , ellos hablan otra lengua llamada boruca .
@@ -5962,12 +5965,12 @@ Los niños se están columpiando en el parque .
 El grosor de la tabla es de dos centímetros .
 Los maderos que se usan para el piso deben ser gruesos .
 El sarpullido pica mucho .
-La niña de él se fue a la ciudad .
+La niña de él se fue para la ciudad .
 La cuerda trenzada sirve para llevar carga .
 Estoy enrollando tabaco .
 La gente está levantando una piedra .
 José le pegó con un látigo a Carmen y le rompió la espalda .
-Mi pantalón está roto .
+Mi pantalon está roto .
 La comadreja anda solo de noche .
 A mí me duele el pulmón .
 La masa del maíz se puso aguada .
@@ -5975,8 +5978,8 @@ La sustancia de los tamales es sabrosa .
 La ropa está mojada .
 El niño arrugó su camisa .
 La comida se terminó .
-Vaya a comprarnos la carne !
-Ayer yo maté a un conejo .
+Anda a comprarnos la carne !
+Ayer maté a un conejo .
 El abuelo de José hizo mal el trabajo .
 El remo del bote está gastado en una de sus puntas .
 Aquí la comida es buena .
@@ -5990,19 +5993,19 @@ El armazón de la casa se va a derrumbar .
 Se me metió una astilla en el pie .
 La raíz del árbol se quemó completamente .
 El anzuelo engañador tiene muchas puntas .
-No orine en el piso .
+No orines en el piso .
 La punta de la mata de laurel se dobló hacia abajo .
 La gallinita de monte es pequeña .
-El pollo tiene frío .
+El pollo ( escaso de plumas ) tiene frío .
 Yo tengo muchas cosquillas .
 Él anda desnudo .
 Ellos se están haciendo cosquillas .
 Ningún pájaro tiene vejiga .
 Mi camisa está rota .
 El niño está desgarrando su camisa .
-Los antepasados pescaban a los chupapiedras con harpones de muchas puntas .
+Los antepasados pescaban a los chupapiedras con arpones de muchas puntas .
 Esos cuatro racimos de banano están sazones .
-El niño botó los restos del racimo de bananos a la basura .
+El niño botó los restos del racimo de bananos al basurero .
 La anguila es sabrosa .
 Nosotros tenemos muchas costillas .
 Mi lápiz es corto .
@@ -6011,10 +6014,10 @@ Yo me golpeé la mano izquierda con una piedra .
 Yo estornudé dos veces .
 El polvo me está haciendo estornudar .
 Su patalón está roto .
-Yo me perdí en el monte .
+Me perdí en el monte .
 El perro es el mejor compañero del hombre .
 El limón es caro aquí .
-En nuestra tierra no se acostumbra hacer perreras .
+En nuestra tierra no se acostumbra a hacer perreras .
 El bote está lleno de cacao .
 Mi abuelo hacía muchas flechas .
 Mi hermano está haciendo una flecha .
@@ -6033,7 +6036,7 @@ Llegaron los diez hermanos de ella .
 Este año el cazador ha ido a cazar diez veces .
 Yo conozco diez especies de avispas .
 Mi sobrino político se llama Juan .
-Los cuñados de María están en la casa .
+Los cuñados María están en la casa .
 Mi cuñada es muy buena .
 La corteza del balso sirve para guardar maíz .
 La chirrascuá es muy parecida a la gallina de monte .
@@ -6042,7 +6045,7 @@ En el patio solo hay tres gallinas .
 Hace un rato una persona mató un caucel .
 El gallo canta bonito .
 El gallinero está al lado de la casa .
-Yo vine siguiendo tus huellas .
+Vine siguiendo tus huellas .
 Juan vive con María .
 El musgo se halla en los árboles y en las piedras .
 Nuestro suquia es serio .
@@ -6057,7 +6060,7 @@ La mujer se hizo trenzas .
 Los murciélagos vuelan bien de noche .
 La boca del pez zapote es grande .
 Mi reloj es plateado .
-Yo como mientras usted trabaja .
+Yo como mientras tú trabajas .
 Ellos están detrás de la casa .
 Juan sufre dolor de muelas .
 María quiere a su hijo .
@@ -6065,14 +6068,14 @@ La mujer está aguantando el dolor del parto .
 Al perro le duele una pata .
 Los indios acostumbran a llevar la carga sobre la espalda .
 Yo siempre le mando encomiendas a mi hermana .
-Nosotros estamos cargando desde Cartago a San José .
+Estamos cargando desde Cartago a San José .
 Este árbol es duro de cortar .
 Tus pupilas son negras .
 En mi casa viven dos negros .
 Su pelo es largo y de color café .
 Él se tiñó las manos con carbón .
 El jilguero está en la rama .
-Yo estoy viendo mi reflejo en el agua .
+Yo me estoy viendo en el reflejo del agua .
 La claridad de la luna está bonita está noche .
 Yo le tengo mucho miedo al diablo .
 Nosotros respetamos a nuestros mayores .
@@ -6353,8 +6356,8 @@ Necesito peones para recoger cacao .
 Yo escribí dos cartas .
 El chancho aplastó todas las matas .
 Mis hermanos menores tienen cansada a mi madre .
-Pedro está contando naranjas .
-Yo gasté mucho dinero en él .
+Pedro está constando naranjas .
+Gasté mucho dinero en él .
 Nuestro trabajo avanza bien .
 La danta dejó su rastro en el barro .
 Yo voy detrás de ellos a bailar .
@@ -6456,7 +6459,7 @@ Los empeines de Ana Rosa son regordetes .
 El calzado es muy importante para el hombre .
 Mi tío se punzó el talón con el clavo' .
 Las piernas de los hombres son más fuertes que las de las mujeres .
-Yo quiero una héctarea de tierra para cultivar plátanos .
+Quiero una héctarea de tierra para cultivar plátanos .
 La patada de un caballo nos puede causar la muerte .
 Carlota tiene una llaga de papalomoyo en la pantorrilla .
 Él se golpeó el peroné con una piedra .
@@ -6564,7 +6567,7 @@ Señor , a usted yo no lo conozco .
 La perra tiene bubas en la vagina .
 Muchas mujeres tienen enfermedades en la vagina .
 Aquel hombre le está sacando los testículos al cerdo .
-La niña se cayó y se hizo una herida en el labio de la vagina .
+La niña se cayó y se hizo una herida en el labio vaginal .
 Él tiene una infecciön en el pene .
 Las niñas pequeñas no tienen vellos genitales .
 Las mujeres tienen el clitoris muy sensible .
@@ -6609,7 +6612,7 @@ Dormimos sobre la cama .
 Deme más dinero .
 Yo quiero café .
 El pedo es muy desagradable .
-El bebé se pée cuando tiene mal de estómago .
+El niñito se pée cuando tiene mal de estómago .
 El caballo se tiró un pedo porque iba cargado .
 Las llagas del pappalomoyo son muy dolorosas .
 Aquellas mujeres se suelen asomar a la puerta de su casa .
@@ -6644,7 +6647,7 @@ El tiene muchos vellos en el brazo .
 El plumaje de aquel pájaro es de varios colores .
 Aquel árbol tiene muchas hojas .
 De qué tamaño quiere el pantalón , pequeño o grande ?
-Mi abuelo era el encargado de presirir los entierros en Salitre .
+Mi abuelo era el encargado de presidir los entierros en Salitre .
 La escalera de mono es un bejuco que existe en la selva .
 A mi madre le gustan las plantas .
 Se necesita caña blanca para hacer esferas .
@@ -6688,7 +6691,7 @@ El niño está chupando el confite .
 La lengua de la res es muy sabrosa .
 La cabeza de María está llena de piojos .
 Los cabécares del Coén no hablan bien bribri .
-Yo no voy porque no tengo dinero .
+No voy porque no tengo dinero .
 Nosotros jalamos el bote .
 Mi hermono encontr{o este árbol en la montaña .
 Vamos a asar pescados para la fiesta de Antonio .
@@ -6697,18 +6700,18 @@ Anoche pellizqué a la novia de Juan
 Dios nos castiga por el incesto .
 Es muy malo cometer incesto .
 Pedro le gritó a Manuel que volviera .
-Yo le regalé un peine a mi esposa .
-A dónde va usted ?
-Su madre se levantó a lavar la ropa .
-El pescado es sabroso .
+Le regalé un peine a mi señora .
+A dónde vas ?
+Tu madre se levantó a lavar la ropa .
+El Pescado es sabroso .
 Yo voy a ir a su casa otra vez .
 Yo lo vi otra vez .
 El perro le mordió la cola al chancho .
 El pene del caballo es grande .
 El semen es blanco .
-A los muchachos les sale vello púbico cuando tienen trece años .
-Masturbarse es muy malo .
-La carne demasiado cocinada pierde sabor .
+A los muchachos les sale vello en los órganos genitales cuando tienen trece años .
+Es muy malo masturbarse .
+La carne demaasiado cocinada pierde sabor .
 El gallo se tragó una cucaracha .
 Al venado le gusta la ceniza de las quemas .
 Al cumplir mi hijo cinco años , su padrino le regaló un bonito juguete .
@@ -6718,48 +6721,48 @@ El cazador está acechando al felino .
 El muchacho está inquieto
 El aula quedó limpia .
 El camino está sin obstáculos .
-Mi hermano es calvo .
-Yo cambié el caballo por una vaca .
+mi hermano es calvo .
+Cambié el caballo por una vaca .
 Mi hermana y tu hermana se están intercambiando los vestidos .
 La gordura nos puede hacer daño .
-Tres mujeres se están bañando .
-Hace tres días fuí donde mis amigos .
+Se están bañando tres mujers .
+Tras antes de ayer fuí donde mis amigos .
 Los cazadores mataron tres chanchos de monte .
 Él tiene tres clases de cítricos .
-Yo tengo tres camisas .
+Tengo tres camisas .
 Tome la medicina tres veces al día .
-Yo traje tres palos .
+Traje tres palos .
 Yo compré tres racimos de pejibayes .
 Mi hijo mató tres patos de agua .
-Nosotros estamos buscando tres paquetes .
+Estamos buscando tres paquetes .
 Yo tengo tres montones de naranjas .
-Dentro de tres días yo iré a mi terruño .
-El mono careto tiene la nariz roma .
+Dentro de tres días iré a mi terruño .
+El mono careto tiene la naríz roma .
 Juan aplastó la lata .
 El recién nacido llora mucho .
 Mi camisa nueva es anaranjada .
 Mi camisa nueva es rosada .
 El vestido de mi hermana es rojo .
-Mi camisa es rojo oscuro .
-Ayer nosotros anduvimos midiendo el terreno .
-Amarre los perros !
-Ella colgó su foto en la pared .
+Tengo una camisa de color rojo oscuro .
+Ayer anduvimos midiendo el terreno .
+Amarra los perros !
+Ella colgó tu foto en la pared .
 En la sabana hay coloradillas .
 Él tiene muchos calabazos en su casa .
 Aquel hombre es muy cruel con los animales .
 Cuando una tortuga se muere , su corazón puede seguir funcionando .
 Mi hermano mayor es sordomudo .
-Él me hizo mucho daño .
+El me hizo mucho daño .
 Ustedes estuvieron callados un rato .
-Yo estoy empezando a economizar dinero .
-Yo le regalé un gato blanco a mi tía materna .
-Cuándo va a ir a su casa ?
+Estoy empezando a ecopnomizar dinero .
+Le regalé un gato blanco a mi tía materna .
+Cuándo vas a ir a tu casa ?
 Yo voy a ir a verlo .
 Algún día yo seré suquia .
 El plumaje de la chachalaca es café .
 Vamos a ver al difunto por última vez !
-Mi madre cocinó muy rico hoy .
-La tijereta está dentro del arroz .
+Mi mamá cocinó muy rico hoy .
+La tijereta está entre el arroz .
 El pene de los niños es muy delicado .
 Anoche mi hijo envolvió con mecates el paquete .
 Cuando hay muchas nubes es señal de que va a llover .
@@ -6774,24 +6777,24 @@ Los cartuchos pueden ser pequeños o grandes .
 La bala penetró en el cerebro del saíno .
 Nuestra raza es de color pardo .
 Las vacas están atadas allá .
-Cuando al niño se le cae el ombligo , los bribris , como es muchos otros lugares , acostumbran a enterrarlo .
+Cuando al niño se le cae el ombligo , los bribris , como es mcuhos otros lugares , acostumbran a enterrarlo .
 En el verano las plantas reviven con el rocío .
-Todos nacemos con el cordón umbilical .
+Todos nacemos con el cord'on umbilical .
 Me gusta ver el rocío reflejado por el sol en las mañanas .
-La cuñada de mi hermana dio a luz un varón .
+La cuñada de mi hermana dio a luz un varoncito .
 Tu hermana está dezmenuzando el maíz para sus pollos .
-El viento trae mucho polvo .
+El viento trae mucho polvillo .
 El fuego convierte a todo un árbol en ceniza .
-La blusa de mi hermana es morada .
-Nosotros llegamos al crepúsculo .
-Mi hijo tiene dos venados .
+la blusa de mi hermana es morada .
+Llegamos al crepúsculo .
+Mi hijo tiene una pareja de venados .
 Las hojas de la bijagua son buenas para usarlas en los chiqueros cuando nacen los cerdos .
 El río amanece blancuzco .
 Las purrujas me picaron toda la noche .
 La carne de la lista es tan deliciosa como la del pez bobo .
 El manatí es gordo y grande .
 La danta es muy peligrosa cuando tiene cría .
-El tigre está durmiendo sobre una roca .
+El tigre está dumiendo sobre una roca .
 El tepeizcuinte se alimenta solo en la noche .
 Cuando mi tío materno estaba enfermo , el suquia lo curó .
 Mi sobrino se llama Carlos .
@@ -6810,27 +6813,27 @@ El zorro huele muy hediondo .
 Las palomas viven en el techo de las casas .
 Los buitres se alimentan de cosas podridas .
 La lluvia me empapó la camisa .
-El excremento del niño me ensució .
-Nosotros Debemos evitar el contacto con las cosas impuras .
+Me ensucié con el excremento del niño .
+Debemos evitar el contacto con las cosas impuras .
 Las mujeres son impuras cuando están con la menstruación .
 Yo voy a ir a tu casa .
 Mi madre está cocinando .
 El arroz se quemó y por eso se pegó mucho en el fondo de la olla .
 La mujer le está pegando a su hijo en las nalgas .
 Todos los ríos desembocan en el Sixaola .
-Quién va a conducir el bote ?
+Quién va ha conducir el bote ?
 En el camino está el cadáver de un perro .
 La diarrea es una enfermedad muy peligrosa para los niños .
 Las espinas del cachito de venado son más grandes que las espinas del naranjo .
-El abejorro vive en el excremento del caballo .
+El abejorro vive en el excremento del cabello .
 El abejorro se alimenta de excremento y de árboles podridos .
 El yigüirro canta muy bonito por las mañanas .
 Yo quiero cuatro libras de mondongo .
 Mi padre está excavando para hacer una letrina .
-La vaca tiene cuatro estómagos .
-Juan quemó mi maíz anoche .
+La vaca tiene cuatro panzas .
+Juan me quemó el maíz anoche .
 Ellos están haciendo una letrina nueva .
-El estómago del caballo es más grande que el de una persona .
+La panza del caballo es más grande que la de una persona .
 El ano del gato es pequeño .
 El niño se cagó en sus pantalones .
 Los suquias dicen que la papaya sílvestre produce estreñimiento .
@@ -6838,18 +6841,18 @@ Ellos no nos dejaron entrar y entonces nos vinimos .
 Dígale al suquia así : que yo quiero verlo .
 Aquel hombre me dio una buena noticia .
 Yo voy a ir a verlo .
-Ellos me robaron mi plata .
+Me robaron mi plata .
 La mujer fue mordida de día por la culebra .
 María estaba comiendo tamales .
-Él cortó mucha madera con el hacha .
-Yo corté dos cedros .
+El cortó mucha madera con el hacha .
+Corté dos cedros .
 Las muchachas no deben comerse la carne del pájaro sangre de toro porque es impura .
 Los niños hicieron un reguero con los granos de maíz .
-Las arañas no pican a la gente .
+Las arañas caseras no pican a la gente .
 El pájaro martín peña es del tamaño de la garza , pero su color es gris .
 Me duele mucho el hombro porque llevé una carga pesada .
 El guapinol no sirve para hacer botes .
-Nuestro trabajo está terminándose .
+Nuestro trabajo está terminandose .
 Esta hormiga es blanca y vive en los árboles .
 El suquia está durmiendo recostado en su cama .
 La madera está puesta de lado .
@@ -6859,12 +6862,12 @@ La mosca quereza es verde y vive en las cosas podridas .
 El papel es liviano .
 Ese muchacho tiene un mono cariblanco atado a un guayabo .
 Anoche ellos me dejaron cuidando la casa .
-Yo dejé ir al pajarito .
+Dejé ir al pajarito .
 El cuello de gavilán careto es blanco .
 Él , por miedo , dejó pasar a la danta .
 El mojoso sirve para hacer chicha de maíz .
 Pedro es muy trabajador .
-En esta papaya hay muchos gusanos .
+Esta papaya tiene gusanos .
 Uno de los chanchos tiene una gusanera en el ombligo .
 El olor de la albahaca es agradable .
 Un colipato está parado en el pelo de la muchacha .
@@ -6873,7 +6876,7 @@ El niño es bonito y gordo .
 La avispa me picó en la mejilla .
 María y Juan no son parientes .
 El chancho de monte hace mucho ruido .
-Yo estoy empezando a cortar el árbol .
+Estoy empezando a cortar el árbol .
 El pájaro sangre de toro macho es negro y tiene una macha roja en la cola .
 La maleza pica mucho .
 El niño me dio un beso en la mejilla .
@@ -6881,22 +6884,22 @@ El grosor del cedro macho es muy grande .
 Mi padre sufre de dolores de estómago .
 La lapa verde es bonita por su plumaje verde claro .
 Pedro abrazó a mi hermano cuando se vieron .
-Yo necesito ocho peones para trabajar .
-Yo compré ocho naranjas .
-Yo traje ocho camisas .
+Necesito ocho peones para trabajar .
+Compré ocho naranjas .
+Traje ocho camisas .
 Hacemos chicha de la caña de azucar .
 Los cazadores mataron ocho chanchos de monte .
 Mi cañaveral tiene una plaga de ratas .
-Yo perdí ocho paquetes de ropa .
+Perdí ocho paquetes de ropa .
 En el patio de mi casa hay ocho especies de árboles .
 Me regalaron ocho racimos de pejibayes .
 Tengo ochenta gallinas para vender .
-Yo fui ocho veces al río a dejar sacos de cacao .
+Fui ocho veces al río a dejar sacos de cacao .
 Ellos derribaron ocho laureles para hacer botes .
 La yuca mal cocida es difícil de masticar .
 El palmito es muy frágil .
 En algunas llanuras hay muchos platanillos .
-Yo me compré una casa nueva .
+Me compré una casa nueva .
 El caballo tiene la panza abombada .
 Mi hermano tiene una lanza rota .
 Los cuernos de la vaca son estriados .
@@ -6910,8 +6913,8 @@ Las cucarachas grandes salen de noche .
 La camisa ya está seca .
 Mi hermana lavó toda mi ropa y todavía no está seca .
 El gorgojo se come el maíz .
-Yo le estoy pegando a la culebra con un palo .
-Yo derribé al pájaro con una rama .
+Le estoy pegando a la culebra con un palo .
+Derribé al pájaro con una rama .
 La planta crotada tiene retoños con la lluvia .
 Hay dos especies de caracoles : los de tierra y los de mar .
 Las mujeres son impuras cuando están con la menstruación .
@@ -6922,7 +6925,7 @@ El potrillo está en el agua .
 Dicen que al gato negro no lo ven las ratas .
 A menudo se desaparecen las gallinas de mi casa porque el gavilán se las lleva .
 El chivo está rompiendo los árboles .
-Yo quebré el lápiz .
+Quebré el lápiz .
 Él es suquia .
 Yo lo ví .
 Yo lo ví .
@@ -6947,7 +6950,7 @@ Hay dos clasess de chayotes : unos con espinas y otros sin espinas .
 El niño le tuvo miedo al zorro .
 El temblor asustó a las mujeres .
 A los pericos y al tepeizcuinte les gusta comer semillas de guabo .
-Hoy yo vi un conejo blanco .
+Hoy vi un conejo blanco .
 Con el algodón se hace ropa y otras cosas más .
 La tela le costó treinta colones .
 Los niños están fumando en su casa .
@@ -6955,14 +6958,14 @@ Nosotros estuvimos tomando chicha en la casa de Feliciano .
 Nuestra madre está cocinando arroz .
 Yo andaba donde mi tía materna .
 La mordedura de un perro puede convertirse en una llaga .
-El patio de la casa del muchacho está tupido .
-Está chicha está poco densa .
+El patio de la casa del muchacho está tupido de matorrales .
+Está chicha está delgada .
 Yo voy a ir a verlo .
 Nosotros podemos hablar bribri .
 Todos dicen que nosotros tenemos muy mal carácter .
 Nuestros ojos son delicados .
-Los suquias saben mucho sobre los indígenas .
-Él cortó los helechos hoy en la mañana .
+Los suquias saben mucho sobre el indio .
+El cortó los helechos hoy en la mañana .
 Hay solo cuatro horcones debajo de la casa .
 Pásame la horqueta ! .
 El pelaje del perezoso es abundante .
@@ -6980,75 +6983,75 @@ Juan celó a María en el baile .
 Luis cela a su mujer .
 Dios lo dispuso todo para que podamos vivir .
 Vamos a rezar .
-Se necesita madera delgada para la pared .
+se necesita madera delgada para la pared .
 El roncador es más pequeño que el pez bobo .
 Ayer en la noche la señora tuvo un aborto .
 Aquella señora abortó anoche .
 Hay una mosca parada en tu cabeza .
-Él está delgado ahora .
+El está delgado ahora .
 Los extranjeros se están apoderando de nuestras tierras .
 El muchacho se golpeó en la pierna con una piedra .
 Aquí nos dan de comer cosas asquerosas .
 Mi padre secó el cacao .
-Yo estoy mirando la luna .
+Estoy mirando la luna .
 Este mes fue muy lluvioso .
-Yo andaba trayendo palmitos para comer .
-Él está pobre porque perdió mucho dinero .
-María está triste porque se fue Juan .
+Andaba trayendo palmitos para comer .
+Ël esá pobre porque perdió mucho dinero .
+María está trsite porque se fue Juan .
 La picadura de la golofa duele tanto como la mordedura de una araña pica caballo .
 Pedro se empobreció mucho porque toma licor .
 La muerte de mi padre estristeció mucho a mi madre .
-Las piedras de los suquias no pueden ser tocadas por una persona que no sea suquia .
-Mi hermana irá al baile con su vestido azul .
+Las piedras de los sequias no pueden ser tocadas por una persona que no se suquia .
+Mi hermana ir'a al baile con su vestido azul .
 La camisa que usted trajo es celeste .
-Hay pacayas en la selva .
+En la selva hay pacayas .
 El perico ligero es rojo y sus ojos son cafés .
 La ortiga pica mucho .
-Él tiene un chancho de monte domesticado .
+El tiene un chanco de monte domesticado .
 El oso caballo puede endurecer la piel cuando está enojado , para que no le entren la balas .
 El conejo está raspando la madera .
-Yo voy a ir a afeitarme .
+Voy a ir a afeitarme .
 A él le dan desmayos a cada rato .
 Le pregunté al muchacho y se quedó callado .
-Juan Pereira es un buen narrador .
+Juan Pereira es buen narrador .
 Yo estoy inflando la bola .
-Yo me desmayé de hambre .
+Me desmayé de hambre .
 Los niños respiran más rápido que nosotros los adultos .
 Me gusta el cuento del ratón .
 Mi sobrino se fue otra vez a trabajar .
 Cuáles son otros lugares de Talamanca , además de los mencionados ?
 Durante el verano los rayos del sol son calientes .
-Yo vendré hasta la próxima semana .
+Yo vendré hasta la proxima semana .
 Prepárenme la bebida porque mañana me voy a trabajar .
 La corteza del cacao pataste es dura y gruesa .
 En la actualidad nadie sabe hacer cerbatanas .
-Yo le pegué en desquite .
+Yo le pagué en desquite .
 Yo iré a trabajar en lugar de él .
 Dentro de cincos días empezaré a trabajar .
 Ayer llegaron cinco amigos míos .
-Yo compré cinco pantalones .
+Compré cinco pantalones .
 Deme cinco naranjas .
 Yo tengo cinco mangos en el patio de mi casa .
 En mi terreno tengo cinco especies de frutas comestibles .
-Yo visité cinco veces a mi hijo en el hospital .
+Visité cinco veces a mi nijo en el hospital .
 Se secaron cinco matas de algodón .
 El hombre trae cinco racimos de pejibayes .
 A mi padre se le perdieron cinco paquetes de clavos .
-Hay solo cinco paquetes de carga para ustedes .
+Hay solo cinco atados de carga para ustedes .
 El árbol de nance es bueno para hacer leña .
 El patio de la casa de Feliciano está lleno de hojas de nance .
 Hay muchas orejas de palo en los troncos podridos .
-Yo quité la olla de donde estaba .
+Quité la olla de donde estaba .
 Él siempre nos gana en las discusiones .
 Yo aparté el libro .
 Los ratones cortaron las matas de maíz .
-El cerdo tiene un orzuelo en el ombligo .
+El cerdo tiene ántrax en el ombligo .
 Aquella señora me va a lavar la ropa .
-Yo lo vi con una bolsa en la mano .
+Lo vi con una bolsa en la mano .
 Se me rompió la agarradera del bolso .
 Las cucarachas se comieron la carne .
 Hay muchos camarones debajo de las piedras del río .
-La avispa lo picó debajo de la nuca .
+La avispa le picó debajo de la nuca .
 Nuestros antepasados usaban escudos en las guerras .
 El malaqueto tiene las hojas anchas y sus frutos son comidos por los murciélagos .
 El diablo peleó mucho con Dios .
@@ -7058,35 +7061,35 @@ La tortuga de carey vive en el mar .
 Aquella montaña es alta .
 Donde yo vivo no hay sabanas .
 En Salitre la gente hace casas con el zacate de la sabana .
-El zacate de limón sirve para bañar a los bebés .
+El zacate de limón sirve para bañar a los recién nacidos .
 Hoy se oficia el novenario por la muerte de mi abuela .
 La corteza del burío es blanca .
 El manigordo no caza de día sino de noche .
 Hay hormigas de diferentes clases
-Yo no pude desatar el nudo de este paquete .
-Adonde nosotros fuimos a trabajar había mucho burío .
+No pude desatar el nulo de este paquete .
+Donde fuimos a trabajar había mucho burío .
 Pedro amarró los chanchos con mecates .
 La llorona camina por las orillas de los ríos .
-Nuestro cerebro y el de los animales es blanco y suave .
+Nuestros sesos y los de los animales son blancos y suaves .
 La arena es resbaladiza .
 Ellos compusieron una canción bonita .
 La gallina que mordió el perro está viva .
 El niño está despierto en la cama .
 Aquel niño es muy vivaz en la escuela .
-No desordenen las cosas de la gente !
+No hurgueteen las cosas de la gente ! .
 El pizote come maíz y bananos maduros .
 Hoy el maestro nos puso a cantar uno por uno .
-Hoy día nosotros los jovenes no escuchamos al cantor .
+Hor día nosotros los jovenes no escuchamos al cantor .
 El puercoespín tiene un olor parecido al del saíno .
-Él es miedoso .
+El es miedoso .
 La lombriz vive en la tierra .
 Mi madre está lavando .
 La rata de pecho blanco es más grande que las ratas comunes .
 El árbol de palo blanco es tan frágil como el burío .
-El color de la lechuza es muy parecido al del cuyeo .
+El color de la lechuza es muy parecidonal del cuyeo .
 La flecha para pescar debe tener la punta afilada .
 La olla está rebalsada de pejibayes .
-Escuché cantar al grillo toda la noche .
+Escuché toda la noche cantar al grillo .
 Los guatusos hacen casas en forma cónica .
 Mi hermano tiene flechas en su casa .
 Nosotros tenemos jícaros estrechos .
@@ -7094,31 +7097,32 @@ Aquellas mujeres son muy feas .
 Las armas de fuego son muy peligrosas para los niños .
 Él está mal .
 La picadura de los insectos ponzoñosos duele mucho .
+La picadura de los insectos ponzoñosos duele mucho .
 Ese hombre hirió a mi sobrino con un cuchillo .
 Los niños se bañan desnudos en el río .
 Los pericos se comen el fruto del guajiniquil .
 Los venados tienen muchas garrapatas .
 Los maderos son planos .
 El muchacho pisó el tamal y éste quedó plano .
-Anoche yo aplasté un sapo .
+Anoche aplasté un sapo .
 La danta es parecida al caballo .
 Los venados viejos tienen los cuernos con muchas puntas y largos .
 Ellos visitaron al enfermo nueve veces al día .
 Él vivió nueve meses en Salitre .
-Yo compré nueve naranjas .
-Yo tengo nueve chanchos en el patio de mi casa .
-Nueve hombres van pasando en un bote .
+Compré nueve naranjas .
+Tengo nueve chanchos en el patio de mi casa .
+Van pasando nueve hombres en un bote .
 Los cazadores mataron nueve chanchos de monte .
 Allí hay nueve paquetes de libros .
-Yo conozco nueve clases de hormigas .
+Conozco nueve clases de hormigas .
 Hay nueve racimos de pejibayes en mi casa .
-Hay nueve paquetes de caña .
-Yo traje todas las cosas para coser .
+Hay nueve atados de caña amarrados .
+Traje todas las cosas para coser .
 Este muchacho es tan petulante como su padre .
 Los zancudos nacen en el barro .
 El humo nos hace toser mucho .
 El hilo del arco es muy suave .
-Ayer yo herí al tigre .
+Ayer herí al tigre .
 La luna es muy redonda .
 Él quiere jugo de limón ácido .
 Las hojas del árbol gavilán son finas .
@@ -7130,83 +7134,83 @@ El amarillón es retorcido .
 Las piedras que las mujeres usan en los anillos tienen varias caras .
 Él me aplastó la bola .
 Mi madre está estrujando la ropa .
-Algunos bananos son planos .
-La guabina tiene la cabeza grande y plana .
+Algunos bananos son aplanados .
+La guabina tiene la cabeza grande y aplastada .
 El cazador fue exactamente al lugar donde están los sainos .
 El muchacho me dio medio plato de comida .
-Tu pantalón es muy ancho .
+Tú pantalón es muy ancho .
 La hija de él tiene cabello abundante y liso .
 Yo no conozco el amarillón .
 El gavilán se está comiendo a una lagartija de montaña .
-Mañana muy en la mañana yo pasaré por tu casa silbándote .
-Yo me comí una tortilla quemada .
+Mañana muy en la mañana pasaré por tu casa silbándote .
+Me comí una tortilla quemada .
 En Salitre hay muchas langostas .
-Cómo está usted ?
+Cómo estás ?
 Hoy amaneció muy frío .
-Salude a mi amigo .
+Saluda a mi amigo .
 El olor del zorro es muy desagradable .
-Nosotros tenemos que caminar mucho para llegar a mi casa .
-Venga a mi casa mañana muy temprano .
+Tenemos que caminar mucho para llegar a mi casa .
+Ven a mi casa mañana muy temprano .
 El muchacho quiere subirse al aguacate .
-Él pasará por tu casa .
+Él habrá de pasar por tu casa .
 La chicha fermentó .
 Él me hizo caminar por gusto hasta su casa .
 El pelo del mono congo es abundante .
 Este camino es ancho .
 Las ostras viven en el mar .
-Este árbol es estriado .
-Yo estoy cansado porque camine mucho en la montaña .
-Ellos se cansan caminando en la montaña .
+Este árbol es de forma estriada .
+Estoy cansado porque camine mucho en la montaña .
+La gente se cansa caminando por la montaña .
 La caña hueca nos sirve igual que un cuchillo .
 La guatusa tiene la cabeza alargada y su pelaje es amarillento .
 La piña es granulada .
 Los brazos de mi padre están llenos de cicatrices .
 El toro echa espuma por la boca .
 El mar cubre la arena con espuma .
-Dentro de esta casa hay diez hombres .
+Dentro de está casa hay diez hombres .
 Él enderezó la viga del techo de su casa .
-Yo mezclé el atol de maíz con leche .
-Yo separé los pescados malos .
-Yo partí la rama en dos mitades para que los niños jueguen .
-Tomás está mezclando cemento con arena .
+Mezclé el atol de maíz con leche .
+Separé los pescados malos .
+Parti la rama en dos mitades para que los niñes jugaran .
+Tómas está mezclando cemento con arena .
 Mi hermana está escogiendo los frijoles .
 Ellos están estirando los cables .
 El guayabo sirve para hacer postes .
-Ana desenvolvió el vestido para verlo .
+Ana desenvolvio el vestido para verlo .
 Él interrumpio nuestra conversación .
 El albañil mezcló el cemento con arena .
 Mi hermano se desjarretó cuando se cayó del árbol .
 Mi hermano le abrió las patas a la silla cuando le pegó con ella un amigo .
 Él quedó de venir aquí durante este mes .
 María resbaló en una piedra y se quebró la columna vertebral .
-Yo quiero que mi hermano me compre un machete .
+Quiero que mi hermano me compre un machete .
 El hierro es duro y frío .
 Cuando los cazadores andan de cacería siempre llevan cuchillo .
 Los trozos de leña mojados no encienden .
 La malaria mata a mucha gente .
 Mi abuelo paterno murió hace mucho tiempo .
 Todos los niños crecen .
-Yo tengo un chancho gordo .
-Entre Urén y Katsi hay una laguna donde la gente dice que hay caimanes .
-La faringe de él es grande .
+Tengo un chancho gordo .
+Entre Urén y Katsi hay una laguna donde la gente dice que hay caimanes ,
+La manzana de Adán de él es grande .
 Me duele mucho la faringe .
 La hermana de Luis es coqueta .
-Juan es atrevido con sus mujeres .
-Yo me resbalé exactamente allí .
+Juan es atrevido con las mujeres .
+Me resbale exactamente alli .
 La hermana de Luis coquetea con mi hermano .
-El ruido espantó a los pájaros .
+El ruido espanto a los pájaros .
 El peón acarrea las vacas .
 Juan se resbaló en una cáscara de banano .
 A la vaca le gusta comer zacate .
 La señora se está pintando las uñas .
-Todos mis hijos están con resfriado .
+Todos mis hijos están acatarrados .
 Ayude a la señora con la carga !
 Mi señora se llama María .
 Aquella muchacha se va al río con Juan .
-Yo vi a su esposo con otra señora .
+Vi a tu esposo con su concubina .
 Juan exprimió la naranja para tomarse el jugo .
 El agua hierve en la olla .
-Él está tocando las maracas en un baile .
+Ël está tocando las maracas en un baile .
 De esta calabaza se puede hacer un colador .
 La hija de él se casó con mi hijo .
 Hay mucho trabajo pero el sueldo es malo .
@@ -7215,19 +7219,19 @@ El guabo machete nos da sombra para el cacao .
 Los suquias guardan bien sus collares .
 Voy a ir a comprarle una vaca a mi hermano .
 Las cosas cuestan caras .
-Yo me zafé el tobillo .
-Yo tengo una vaca .
-Yo te escribí seis veces .
-Yo me he puesto seis inyecciones .
+Me zafé el tobillo .
+Tengo una vaca .
+Te escribí seis veces .
+Me he puesto seis inyecciones .
 Seis hombres están haciendo la casa .
-Yo compré seis gallinas .
+Compré seis gallinas .
 Compré seis naranjas .
 En este maizal yo he matado seis dantas .
 Aquí tengo seis paquetes .
 Aquí estamos personas de seís países diferentes .
 Yo compré seis racimos de pejibayes .
 Vi seis conjuntos de cargas .
-Nosotros le estamos limpiando el terreno a mi tío .
+Le estamos limpíando el terreno a mi tío .
 A él se le derramó un trago .
 El niño está acostado en su cama .
 La lengua de los térrabas no es parecida al bribrí .
@@ -7235,47 +7239,47 @@ La cabeza del mono cariblanco es medio redonda .
 El oso colmenero duerme en los agujeros de la tierra y de los árboles .
 El zorro pelón está metido en la cueva del tepeizcuinte .
 La señora le está dando de comer a las gallina .
-No se mueva !
+No te muevas !
 Tenemos que madrugar .
 Pedro despertó al niño .
 Feliciano sacudió el árbol de mango .
-No meta la mano en el agua fría .
+No te metas la mano en el agua fría .
 La punta de la espuela del gallo es afilada .
 El niño es gordo .
-Los empeines de los pies de los niños son gorditos .
+Los empeines de los pies de los niños son regordetes .
 El gusano ciprés es verde .
-El niño tose porque está resfriado .
+El niño tose porque tiene gripe .
 La piel del tigre es muy suave .
 Él le vendió barato el bote a su amigo .
 Este trabajo es fácil .
 Esta lluvia suavizó la tierra .
 El gato se está muriendo de la tos .
-Sí , yo me voy .
+Si , yo me voy .
 Alfonso dijo que trajeras el libro .
 Yo lo ví .
-Yo golpeé a la culebra con la piedra .
+Golpeé a la culebra con la piedra .
 Nosotros cortamos la rama .
-Feliciano hirió a Pedro en el brazo con un machete .
+Feliciano hirió a Pedro en un brazo con un machete .
 Mi hermana está regando las flores .
 Él está echando agua en la olla .
 Voy a cortar una caña .
 Yo herí a tu hermano con un cachillo .
-Yo derramé el agua sobre la cama .
+Derramé el agua sobre la cama .
 El martín pescador es bonito por su plumaje azul y su pecho blanco .
 Aquel árbol está inclinado .
 En el cielo de la casa cuelga una luz .
 Los muslos del pavo son más grandes que los de la gallina .
 Hoy él está dando frutas .
 Esta noche hay luna llena .
-En Talamanca nosotros comemos tubérculos .
+En Talamanca comemos tubérculos .
 Rosa tiene bonitos muslos .
 El chucuyo no es comestible .
 Cerca de la casa de Camilo hay un ojo de agua .
-Al perro le está saliendo pus del orzuelo .
+Al perro le está saliendo pus del ántrax .
 Los niños van a ir a correr a la orilla del río .
-El venado saltó sobre un palo .
-Nosotros usamos las hojas de la palmera para barrer .
-Las serpientes son diferentes .
+El venado saltó por sobre un palo .
+Usamos las hojas de la palmera para barrer .
+Las serpientes son de diferentes clases .
 El arcoiris tiene siete colores .
 El chillido del gavilán es de mal agüero .
 Nosotros le tenemos mucho miedo a la terciopelo .
@@ -7288,27 +7292,27 @@ Solo ellos cuatro fueron a trabajar .
 Él estuvo cuatro meses en mi casa .
 Mi padre trabajó cuatro años en Limón .
 Nacieron cuatro almendros en el patio de la casa .
-Yo sembré cuatro especies de árbolitos en mi terreno .
+Sembré cuatro especies de árbolitos en mi terreno .
 Él está sentado descansando porque ha venido desde muy lejos .
 Cuatro paquetes no me llegaron .
 Fuimos con él a tomar café cuatro veces .
-Hoy nosotros compramos cuatro rifles .
+Hoy compramos cuatro rifles .
 Compré cuatro racimos de bananos .
 Hay cuatro cargas para usted .
-Dentro de cuatro dias yo iré a su casa .
-Yo me asusté mucho .
+Dentro de cuatro dias iré a tu casa .
+Me asusté mucho .
 El ruido asustó a los animales .
 Las pulgas chupan la sangre de todos los animales .
 Juan dejó clavada una estaca .
-No punze muy fuerte a los bueyes !
+No punzes muy fuerte a los bueyes ! .
 Esta mañana Juan pasó por el lado de mi casa .
 Él puso dos botellas sobre la mesa .
 Los reos se escaparon .
-La luciérnaga es gris y plana .
+La luciérnaga es gris y aplastada .
 Nosotros tenemos gallinas .
 Yo tengo tres gallinas cluecas .
 El zorro se come a los pollos .
-Tráigame un huevo .
+Tráeme un huevo .
 El gallo es colorado .
 La niña tiene el pelo mojado .
 El niño mojó sus pantalones .
@@ -7319,16 +7323,16 @@ El cazador disparó sobre el venado .
 El plátano frito es muy sabroso .
 El cusuco tiene la cabeza pequeña y su hocico es alargado .
 El chitrá vive en las madrigueras de los animales .
-Las oropéndolas comen muchos pejibayes .
+A las oropéndulas les gusta comer pejibayes .
 En aquel árbol hay mucho bejucos .
 Esa cuerda es muy dura .
 El pelo de tu hermana es muy negro .
 Mi hermano tiene muchos árboles de guanábana en su terreno .
-Las muchachas se peinan en el espejo .
+Las muchachas se peinan ante el espejo .
 En la playa hay muchos caracoles .
-Yo compré un racimo de pejibayes .
+Compré un racimo de pejibayes .
 El pájaro pasó sobre la casa .
-Ayer yo me corté el pelo .
+Ayer me corté el pelo .
 En la tarde empezó a llover .
 Mi hermano llegó en la tarde .
 En la tarde el sol calienta menos .
@@ -7338,32 +7342,32 @@ El camino es angosto .
 El niño está desgastando el palo con el cuchillo .
 Mi padre le regaló dos pañuelos .
 El carpintero hace sus nidos en los árboles secos .
-En la arena del mar hay muchas conchas .
+En la arena del mar hay muchoas conchas .
 Él no se hizo bien la partidura del pelo .
 Ese hombre canoso es mi abuelo .
 Pedro tiene más dinero que Juan .
 Mi padre tiene muchas canas .
 Mi hermana se tiñó el pelo para ir a la fiesta .
-Nosotros debemos defendernos .
-Yo salvé a un niño de la mordedura del perro .
-Cuando fui a su casa por primera vez , conocí a su padre .
-Mi primer hijo es hombre .
+Debemos defendernos .
+Salvé a un niño de la mordedura del perro .
+Cuando fui a tu casa por primera vez , conocí a tu padre .
+Mi hijo primogénito es varón .
 La guanábana es dulce .
-La madre le hizo un moño a su niña porque iban a pasear .
+La madre le hizo un moño a su niña porque iban a pasaer .
 Él ha hecho varias cerbatanas .
 La noche de hoy es oscura .
 Ellos travesearon toda la noche .
-En estos días nosotros empezaremos a oír chismes .
+En estos días empezaremos a oir chismes .
 El pizote come maíz y bananos maduros .
 En el bosque hay muchos platanillos .
 Compré una camisa amarilla .
-Yo tengo un perro amarillento .
+Tengo un perro amarillento .
 El quioro se alimenta solo de frutas de árboles .
-Yo pintaré verde el bote grande .
+Pintaré verde el bote grande .
 El gavilán come lagartijas .
 La casa de mis padres no es pequeña .
 Yo soy menor que mi hermano .
-Ayer yo casi me ahogo .
+Ayer casi me ahogo .
 Los niños se molestan entre ellos .
 Pedro nos ofende con su modo de ser .
 La masa del cacao es espesa .
@@ -7372,37 +7376,37 @@ El fruto del cacao se pudre muy rápidamente .
 La gente de Talamanca seca las semillas de cacaco sobre camastros .
 En Talamanca hay mucho cacao .
 Anoche me dolió la espalda .
-No se tome esta borra !
+No te tomes la borra !
 Nosotros los hombres tenemos la espalda muy ancha .
 Ellos están trabajando detrás de esta casa .
 Esta montura es nueva .
 En la parte de atrás de la casa hay mucho barro .
 Él viene detrás de mÍ .
 El pájaro ardilla es rojo .
-El platanillo crece en todas partes en la montaña y en la llanura .
+El platanillo crece en todas partes , en la montaña y en la llanura .
 El río pasa cerca de mi casa .
 El hule es un árbol grande .
 Nacieron veinte pollos .
 Yo estoy hablando .
-El niño mordió el pezón de su madre .
+El niño mordió el pezón a su madre .
 La leche es buena para el niño .
-Aquel hombre dice muchas obscenidades cuando toma tragos .
+Aquel hombre dice muchas obsenidades cuando toma tragos .
 El árbol de camposanto es bueno para hacer postes .
-A las muchachas les crecen los senos a los doce años .
-La oropéndola grande hace los nidos en las ramas .
+A las muchachas les crecen las tetillas a los doce años .
+La oropéndula grande hace los nidos en las ramas .
 El niño mama cuando tiene hambre .
-Los senos de la hermana de Luis son grandes .
+La hermana de Luis tiene las tetas grandes .
 María fue a traer agua .
 Él se llevó un cuchillo para trabajar .
-No reciba dinero de un desconocido .
+No recibas dinero de manos de un desconocido .
 El muchacho se quedó con la plata que le dieron para comprar cosas .
-Este año yo construiré una casa nueva .
+Este año me construiré una casa nueva .
 El patio de mi casa es grande .
 El camaleón cambia de verde a azul .
 El plumaje del rey de los zopilotes es blanco y negro .
-Juan no sabe dónde vive su madre .
+Juan no sabe donde vive .
 El viento abrió la puerta .
-Yo quiero tener información de cómo está tu hermano .
+Quiero tener referencias de cómo está tu hermano .
 Mi madre dice palabras muy bonitas .
 Nuestro idioma bribri es hermoso .
 Ellos hablaron hace rato con el suquia .
@@ -7412,13 +7416,13 @@ Yo quiero matar un chancho .
 Ellos cuchichearon cuando yo pasé por su casa .
 El mapache tiene la madriguera dentro de la tierra .
 Las mujeres hacen collares con las semillas de lágrimas de San Pedro .
-El cazador mató al tepeizcuinte con una flecha .
+El cazador mató al tepeizcuinte .
 En la orilla del río hay mucha caña blanca .
 Entre nosotros los bribris hay distintos grupos .
-Mi madre le dio un pedazo de pan al niño .
-El niño cogió un palo corto para pegarnos .
-Después yo fui a tomar café .
-Él le añadió un trozo al mecate porque era pequeño .
+Mi madre le dio un peza de pan al niño .
+El niño cogió un palo corto para pergamos .
+Después fui a tomar café .
+Él le añadió un trozo al mecate ya que era pequeño .
 Me duele el brazo .
 El río Lari tiene muchos afluentes en su desembocadura .
 En la rama hay un quetzal .
@@ -7426,7 +7430,7 @@ Mi sobrino trabaja con la mano izquierda .
 Yo voy a ir al matrimonio de mi hermana .
 Una prima se casó con un blanco .
 Yo trabajo con mi mano derecha .
-Cecilia la lleva de la mano .
+Cecilia lleva a su hermana de la mano .
 Las manos de Carmen son largas y bonitas .
 Me pequé en el codo cuando me caí .
 El palo le pegó a Juan en el brazo .
@@ -7441,7 +7445,7 @@ La navajuela me cortó el dedo meñique .
 El perro me mordió el dedo meñique .
 Juan se apretó el dedo pulgar con la puerta .
 Las uñas de Cecilia están pintadas de rojo .
-El machete lo cortó exactamente en las coyunturas .
+Él se cortó con el machete exactamente en las coyunturas .
 Él me hizo señas desde muy lejos .
 Pedro andaba buscando un gusano jocotero .
 El suquia está alisando su bastón .
@@ -7452,51 +7456,51 @@ Ellos estaban haciendo un bote de cedro .
 Pedro se había enojado con su novia .
 Los niños me hicieron enojar ayer porque estaban jugando con barro .
 La vaca abortó .
-Limpie bien los rincones !
+Limpia bien los rincones !
 Vamos a pasear al campo .
 Iré a visitar a mi tía .
 Los niños estaban jugando afuera en la lluvia .
 En el patio de mi casa tengo una pava negra domestica .
-El tucán tiene el plumaje negro y blanco .
+El tucan tiene el plumaje negro y blanco .
 El oso hormiguero puede matar a un perro con una garra .
 El usekar es más poderoso que el suquia .
 Juan soltó al caballo para que fuera a tomar agua .
 En el patio hay mucha basura .
 Juana andaba comprando una escoba .
 María barre cuando termina la fiesta .
-Qué hay en la sala de la casa de sus padres ?
+Que hay en la sala de la casa de tus padres ?
 La lluvia pudrió las vigas de la casa .
 Un gato está sentado sobre el techo de la casa .
-Prepare la comida !
+Prepara la comida !
 Yo escribí este papel .
 Mi abuela paterna tiene noventa años .
 Los niños lanzan piedras
-Mi hermano me dio una honda para lanzar piedras.
+Mi hermano me dio una honda .
 En esta olla mi abuelita cocinaba tamales .
 El cocinero asó la gallina .
 El caldo quedó sabroso .
 Yo estoy haciendo el trabajo .
-No se comporte así .
+No se comporte asi .
 Mi madre está cocinando
-La golondrina vuela entre la lluvia .
+La golondriana vuela por entre la lluvia .
 La madre regañó a su hijo .
 Ella pujó cuando nació el niño .
 La olla tiene algo .
 Los niños están jugando con la bola .
-No le eche agua a la olla !
+No lo eches agua a la olla !
 Yo soy el dueño de este perro .
 Aquel hombre tiene muy mal aspecto .
-La señora dio a luz un hombre .
-Ellos son del clan Dùriwak .
+La señora dio a luz un varón .
+Ellos son dùriwak' .
 El guaco come culebras .
 Los blancos tienen mucho vello en las axilas .
 Pedro imita a Juan .
-Yo conocí el aspecto del tiburón en Limón .
-El niño rayó la pared .
+Yo conocí ( el aspecto de ) el tiburón en Limón .
+El niño rayo la pared .
 Qué estás haciendo ?
 Él se portó muy mal en la fiesta .
 Ayer a él le sucedió algo muy malo .
-Él se comió todos los pejibayes .
+Se comió todos los pejibayes .
 Juan es mi compañero .
 El compañero de mi hermano se fue Salitre .
 Mi compañera se llama Aura Estela .
@@ -7504,3 +7508,207 @@ Ayer mi madre nos sirvió una machaca frita .
 Él está vendiendo un chancho .
 Las mujeres se ponen polvo en las axilas .
 Juan estaba ofreciendo los aguacates muy baratos .
+Debemos lavarnos bien las axilas .
+Hay muchos zorros hediondos en Talamanca .
+Joaquín suda mucho en las axilas .
+El rey tenía esclavos .
+Yo no lo vi .
+Yo lo he visto .
+Los niños se están durmiendo .
+La nutria come peces .
+Hay poca agua en la laguna .
+La casa de mi padre es mediana .
+El chillido del gavilán es de mal agüero .
+No hagas cosas de malos agüeros !
+El techo de la casa es de palma .
+Voy a ir a observar la milpa .
+María está haciendo sufrir a su hijo al tenerlo con hambre .
+El hombre abandonó a su esposa .
+Los padres no deben abandonar a sus hijos .
+Aquel hombre está enfermo .
+Los aguacates están en su punto .
+Los hombres están jugando a las cartas .
+El esposo de Leticia es alto .
+Pedro tiene un perro .
+La ardilla come cacao de monte .
+Qué lástima que te vas !
+Dónde vives ?
+Cuál muchacha te gusta ?
+Algunos bribris viven en Ujarrás .
+Para dónde fue tu esposa ?
+Con cuáles grupos vas a ir ?
+De qué tamaño es tu casa ?
+Por dónde se llega a tu casa ?
+Cómo viven ustedes ?
+Qué clase de fruta quiere usted ?
+Ellos están dentro de tu casa .
+Aquel árbol tiene la base podrida .
+Hay ratas que viven en la tierra y que se comen las raíces de los árboles .
+Las tarántulas viven en las hojas secas de los árboles .
+Nuestro espíritu se va donde Dios .
+El mono congo es del mismo tamaño del mono colorado .
+Mi hermano dice que una vez en la noche , él vio al fantasma de mi abuelito .
+Cuando al niño le salen los dientes , tiene mucha saliva .
+Es muy malo escupir en el suelo .
+El café ha sido molido muy finamente .
+La parte de abajo del tronco del aguacate es gruesa .
+Esa vieja habla mal de nosotros .
+Nuestra abuela nos quiere mucho .
+Mi abuelita vive en nuestra casa .
+Marcos vende aguacates grandes .
+La cara de Damaris es bonita .
+Se pudireron los aguacates .
+El arco iris tiene siete colores .
+Mi cobija tiene franjas rojas y azules .
+Yo besé a María cuando nos encontramos .
+El suquia está frotando su bastón para alisarlo .
+Es malo masturbarse .
+Tengo un agujero en el pantalón .
+El pájaro carpintero perfora los árboles con su pico .
+Juan tiene una venda en la mano .
+Anoche encendimos una gran hoguera .
+Los ojos de Cecilia son verdes .
+El tiene las pestañas crespas .
+Todo el mundo tiene la pupila .
+Mi cuñado se punzo el iris con una espina .
+A mi cuñado le salió una nube en la pupíla y por eso no puede ver .
+Toda la gente no tiene el iris del mismo color .
+La avispa le picó a Pedro en el párpado .
+El tiene las cejas negras .
+Aquel hombre bizco es pariente mío .
+A mi me gustan mucho los frijoles .
+El enrolló el mecate para guardarlo .
+El tiene la frente ancha .
+A la niña le corren las lágrimas por la mejillas .
+Mi madre está soplando las brasas para encender el fuego .
+El suquia curó a mi madre del reumatismo .
+El niño está pelando una naranja .
+El fuego se apagó .
+Mi madre nos pidió que le sacáramos las granzas al arroz .
+Él se dio vuelta para ver a la muchacha bonita que pasó .
+La frente de la vaca es ancha .
+Los borucas hacen máscaras de diferentes colores .
+El niño no sabe desatarse los cordones de los zapatos .
+María molió anoche el café .
+Ana está frente a mí y María está detrás de mí .
+Hay muchas flores en el tronco del cacao .
+Él le está haciendo cortes al tronco para subirse .
+Las gradas de esta escalera son muy anchas .
+Ellos dejaron un pedazo de monte sin trabajar .
+El hombre detuvo el caballo en la orilla del río .
+Juan está parado frente a mi casa .
+Mi hermano se ahogó en el río .
+Mi abuelo materno está muy viejo .
+Ese anciano le contó muchas historias al muchacho .
+Mi abuelo materno cultiva cacao .
+La cabeza del chancho de monte es grande .
+Los niños se encontraron una calavera en la orilla del río .
+Yo me pongo a cabecear de sueño cuando son diez de la noche .
+Mi madre arrugó la cara cuando el gato llegó con un ratón muerto .
+Mi madre le cortó la chasquilla a mi hermana .
+Mañana voy a llevar a bautizar a mi hijo .
+Pedro besó a su esposa .
+Ellos se estuvieron besando durante el baile .
+Las gotas de rocío me mojaron el pantalón .
+A la niña le corren las lagrimas por las mejillas .
+Los dos bueyes trajeron un trozo grande de madera .
+Mi hermana se ata el pelo con un pañuelo rojo .
+Hazle dos nudos al mecate .
+Aquel hombre estuvo toda la noche frente a tu casa .
+Él se limpió la mugre de los órganos genitales .
+Las estrellas brillan en la noche .
+A veces , cuando llueve , relampaguea mucho .
+Pedro le sacó chispas a la piedra con el machete .
+Pedro está trozando madera en el camino .
+Carlos se aflojó la faja porque comió mucho .
+Las mujeres sacuden afuera su ropa .
+Están cayendo gotas de lluvia .
+Yo iré con Feliciano a mi casa .
+Rosa se mira en el espejo .
+El camino está lleno de pelotas de barro .
+Desgranamos el maíz para venderlo .
+Yo voy a ir con los perros para cazar .
+Leticia saca a pasear a su hermanito .
+Pedro vive frente a nosotros .
+Juan trajo un rollo de mecate .
+Se quebró la rueda del juguete .
+Tengo cinco colones .
+Tomás enrolló el mecate para guardarlo .
+Escoge el arroz con cuidado .
+María Rosa se asoma cuando Abel pasa por su casa .
+Ellos remecen el árbol de nance para que caígan las frutas .
+Tengo cuatro chanchos encerrados para el engorde .
+Yo estoy clavando la mesa .
+Añadí tres veces el mecate para amarrar al chanco .
+Juntemos las dos mesas para comer todos juntos .
+Abotónate la camisa !
+Aquella vaca tiene la frente blanca .
+Aquella muchacha se sonríe cuando uno la mira .
+Los comejenes hicieron muchos huecos en nuestra casa .
+Mi Padre me enseñó a matar tigres .
+Yo estoy aprendiendo bribri .
+El profesor les enseña a los niños .
+No sueltes al chanco !
+Juana agita la medicina para dársela a su hijo .
+Yo le hice muchas muecas para que no siguiera hablando .
+María está cosiendo el pantalón de su hijo .
+No engañes a tu esposa !
+El pantolón de Pedro se descosió .
+Yo me estoy bañando .
+Mi hermano se llama Juan .
+Mi suegra viene a menudo a mi casa .
+El ruido que hace el mono congo en las tardes , es desagradable .
+Hay muchas piedras esparcidas en aquella montaña .
+Yo voy a ir ... con Pedro .
+Tengo un familiar enfermo .
+Yo voy a ir con mis amigos al baile .
+Las chicharras cantan en verano .
+Las culebras viven en las raíces salientes de los árboles .
+Los niños ensucian la ropa .
+Él trajo una mano de bananos .
+La madera de laurel es buena para hacer cosas .
+Ese gavilán vive en las montañas .
+El cangrejo vive debajo de las piedras .
+Mi padre hizo una casa .
+Pedro afiló el machete en el mollejón .
+La machaca se come la fruta del espavel .
+Mi hermano vive muy lejos .
+Mi padre tiene cincuenta años .
+Yo estoy cantando con Abelino .
+Yo voy a ir a cazar con mis amigos .
+Ya no quedan muchos zorros cuatro ojos en Talamanca .
+Mi tía ( paterna ) cocina tamales .
+El marido de mi tía materna trabaja en Limón .
+Hay muchos papeles en el patios .
+Mi tío paterno es un buen suquia .
+Están cayendo gotas de lluvia .
+Juan no puede eyacular .
+Este muchachillo no me obedece .
+Mis padres viven en Talamanca .
+Los venados toman agua termal en la montaña .
+Al cazador lo mordió la serpiente .
+No tengo absolutamente nada de dinero .
+El camino que llega a mi casa es muy recto .
+Mi padre es honrado .
+Yo y mi hermano estuvimos enderezando el alambre .
+El cabón no se pudre en la tierra .
+Mi padre está cazando en la montaña .
+No sé quien vino .
+Quién es él ?
+La naríz de Rosita es bonita .
+A los niños se les caen los mocos cuando están resfriados . .
+Anoche se me taparon fosas nasales .
+Las siete cabritas se ven cuando la noche está clara .
+Aquí estamos tomando chicha .
+Yo me escondí de Pedro .
+Arrancamos las malezas del patio .
+El gusano ciprés me hizo escocer la mano .
+Yo estoy viendo un chorro de agua .
+Cerca de mi casa hay una cascada .
+En el camino a Limón hay una cascada pequeña .
+El policía se llevó a Pedro a la cárcel .
+A mi madre le duelen las cadenas .
+El atol de maíz es rico con leche de vaca .
+Hoy día nadie tiene esclavos .
+Los cazadores están buscando dantas en el monte .
+El cangrejo me mordió el pie .
